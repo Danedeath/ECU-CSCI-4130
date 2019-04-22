@@ -7,7 +7,9 @@ Languages: Python 3.7, Java
 
 # Group Members:
 Sellars, Walter
+
 Lamm, William
+
 Carson, Adam
 
 # Disclaimer
