@@ -13,4 +13,4 @@ Lamm, William
 Carson, Adam
 
 # Disclaimer
-All the code in this repository is to be used to showcase the coding abilities of the collaborators. It is not provided to be used as the course of academic plagarism.
+All the code in this repository is to be used to showcase the coding abilities of the collaborators. It is not provided to be used as a source of academic plagarism.
